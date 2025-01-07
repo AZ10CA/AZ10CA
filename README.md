@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**AZ10CA/AZ10CA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Alireza Zahedi!  
 
-Here are some ideas to get you started:
+🎓 **Recent Graduate** | Bachelor of Software Development, **Seneca Polytechnic**  
+🍎 **Aspiring iOS Developer** specializing in SwiftUI and UIKit  
+💻 **Passionate Problem Solver** with expertise in **Swift**, **C++**, and **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills and Expertise  
+- **Programming Languages:** Swift, C++, Python, JavaScript, TypeScript, C  
+- **Mobile Development:** SwiftUI, UIKit  
+- **Backend Development:** Advanced knowledge of Python and TypeScript  
+- **Problem Solving:** Active on LeetCode and Codeforces  
+
+---
+
+## 🌟 About Me  
+- 🧩 I love solving challenging problems and puzzles on coding platforms.  
+- ♟️ Fun fact: I taught myself chess by watching streams and reached a **2000 Rapid rating** on chess.com within two years.  
+- 🌱 Currently learning and mastering **UIKit** and **SwiftUI** to create seamless iOS experiences.  
+- 🤝 Open to collaborations on fun or open-source projects, but my main focus is finding an **iOS development role**.
+
+---
+
+## 📫 Let's Connect  
+- 📧 Email: [alirezaZahediDev@gmail.com](mailto:alirezaZahediDev@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/zahedi-alireza](https://www.linkedin.com/in/zahedi-alireza/)  
