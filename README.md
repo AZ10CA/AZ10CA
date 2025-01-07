@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Alireza Zahedi!  
 
 🎓 **Recent Graduate** | Bachelor of Software Development, **Seneca Polytechnic**  
-🍎 **Aspiring iOS Developer** specializing in SwiftUI and UIKit  
+🍎 **iOS Developer** specializing in SwiftUI and UIKit  
 💻 **Passionate Problem Solver** with expertise in **Swift**, **C++**, and **Python**
 
 ---
