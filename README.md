@@ -10,7 +10,7 @@
 ## 🛠️ Skills and Expertise  
 - **Programming Languages:** Swift, C++, Python, JavaScript, TypeScript, C  
 - **Mobile Development:** SwiftUI, UIKit  
-- **Backend Development:** Advanced knowledge of Python and TypeScript  
+- **Backend Development:** Advanced NodeJS and JavaScript/TypeScript
 - **Problem Solving:** Active on LeetCode and Codeforces  
 
 ---
